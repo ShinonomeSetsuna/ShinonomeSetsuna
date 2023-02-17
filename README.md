@@ -4,7 +4,7 @@
     <a href="https://twitter.com/SetunaShinonome" target="_blank"><img alt="Twitter: SetsunaShinonome" src="https://img.shields.io/twitter/follow/SetunaShinonome.svg?style=social"/></a>
 </div>
 
-<a herf="https://www.pixiv.net/artworks/100717603"><div style="background-image:url(./src/100717603_p0.jpg);width:80vw;height:45vh;background-size:cover;border:solid #6cfc;border-radius:2em"></div></a>
+<a herf="https://www.pixiv.net/artworks/100717603"><img src="./src/100717603_p0.jpg" style="border:solid #6cfc;border-radius:2em"></div></a>
 <br/>
 
 > Drawing By [ぴろ瀬(@heripiro)](https://twitter.com/heripiro)
