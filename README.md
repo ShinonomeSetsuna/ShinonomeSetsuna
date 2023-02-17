@@ -27,7 +27,7 @@
     </div>
 </div>
 <div>
-    <h2 style="text-align:center;">Preference<h2>
+    <h2 style="text-align:center;">Preformance<h2>
 </div>
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=ShinonomeSetsuna"/>
